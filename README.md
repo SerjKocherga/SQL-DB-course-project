@@ -1,2 +1,2 @@
-# SQL-DB-curse-project
-SQL curse project for studing,
+# SQL-DB-course-project
+SQL course project for studing,
